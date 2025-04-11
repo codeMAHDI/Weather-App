@@ -1,0 +1,7 @@
+1. www.weatherapi.com Account Open
+2. Read Docs https://www.weatherapi.com/docs/
+3. Test Your Weather API Using Postman
+4. Simple UI
+5. API Call
+6. Data State Set
+7. Data UI Show
