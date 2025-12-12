@@ -22,7 +22,6 @@ class WeatherScreen extends StatefulWidget {
     return WeatherScreenState();
   }
 }
-
 class WeatherScreenState extends State<WeatherScreen> {
   String temperature = "Temperature --";
   String city = "Dhaka";
