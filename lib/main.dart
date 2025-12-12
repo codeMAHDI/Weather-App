@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 class WeatherScreen extends StatefulWidget {
   const WeatherScreen({super.key});
 
