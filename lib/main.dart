@@ -12,8 +12,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       home: WeatherScreen(),
     );
-  }
-}
+  }}
 class WeatherScreen extends StatefulWidget {
   const WeatherScreen({super.key});
 
