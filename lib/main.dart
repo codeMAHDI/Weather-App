@@ -33,7 +33,6 @@ class WeatherScreenState extends State<WeatherScreen> {
   String key="291e2d051e624ed488974910240410";
   TextEditingController cityController = TextEditingController();
   static const baseUrl='http://api.weatherapi.com/v1';
-
   Future<void> GetWeatherData() async {
     //API call
     Uri uri=Uri.parse("http://api.weatherapi.com/v1/current.json?key=$key&q=$city");
