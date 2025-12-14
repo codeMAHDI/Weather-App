@@ -10,8 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: WeatherScreen(),
-    );
-}}
+    );}}
 class WeatherScreen extends StatefulWidget {
   const WeatherScreen({super.key});
 
