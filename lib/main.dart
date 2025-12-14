@@ -17,8 +17,7 @@ class WeatherScreen extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
     return WeatherScreenState();
-  }
-}
+  }}
 class WeatherScreenState extends State<WeatherScreen> {
   String temperature = "Temperature --";
   String city = "Dhaka";
