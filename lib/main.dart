@@ -46,7 +46,6 @@ class WeatherScreenState extends State<WeatherScreen> {
        pressure = "Pressure: ${body['current']['pressure_mb']} mb";
        icon = "https:${body['current']['condition']['icon']}";
     });
-
   }
   @override
   void initState() {
